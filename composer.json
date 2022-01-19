@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "NAMESPACEPLUGIN\\": ["src/"]
+    }
+  },
+  "require": {
+    "twig/twig": "^3.1"
+  }
+}
